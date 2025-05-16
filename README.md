@@ -4,22 +4,22 @@
 
 A 3D room-design web app built with **React**, **React Three Fiber**, and **@react-three/drei** that lets users place, rotate, and remove furniture and wall items in a virtual space. Built with:
 
-> - ⚛️ React for UI management
-> - 🎨 React Three Fiber for rendering Three.js in React
-> - 🛠️ @react-three/drei for helpers (OrbitControls, Html tooltips)
-> - 🕹️ Three.js as the 3D engine
-> - 🚀 Vercel for seamless deployment
+- ⚛️ React for UI management
+- 🎨 React Three Fiber for rendering Three.js in React
+- 🛠️ @react-three/drei for helpers (OrbitControls, Html tooltips)
+- 🕹️ Three.js as the 3D engine
+- 🚀 Vercel for seamless deployment
 
 ---
 
 ## ✨ Features
 
-> - 🪑 Furniture: Place chair, table, sofa, bed, dresser, rug, desk+monitor, bookshelf, floor lamp
-> - 🖼️ Wall Items: Add painting, poster, pillar, clock
-> - 🔄 Manipulation: Select, rotate (snap-to-wall for wall items), and remove objects
-> - 🎥 Camera: Constrained orbit camera that stays inside room bounds
-> - 💡 Guidance: Alignment tooltip guides wall-mounted items into place
-> - 🎨 Customization: Live wall-color picker
+- 🪑 Furniture: Place chair, table, sofa, bed, dresser, rug, desk+monitor, bookshelf, floor lamp
+- 🖼️ Wall Items: Add painting, poster, pillar, clock
+- 🔄 Manipulation: Select, rotate (snap-to-wall for wall items), and remove objects
+- 🎥 Camera: Constrained orbit camera that stays inside room bounds
+- 💡 Guidance: Alignment tooltip guides wall-mounted items into place
+- 🎨 Customization: Live wall-color picker
 
 ---
 
@@ -105,3 +105,7 @@ git push origin feature/my-change
 
 This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for details
 
+
+---
+
+*Created by Shaunak Kapur*
